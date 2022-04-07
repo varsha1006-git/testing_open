@@ -118,7 +118,7 @@ __Bold Text can also be wrapped with double underscores__
 <br>
 <br>
 
-> # **Code** :
+# **Code** :
 ## **1. Inline Code**
 ```
    * For inline code, we wrap the code in back-ticks (``)
@@ -156,7 +156,7 @@ __Bold Text can also be wrapped with double underscores__
 
 <br>
 
-> # **Insering Images** :
+# **Insering Images** :
 ```
 ![display_name](path "alternate_text")
 ```
@@ -165,7 +165,7 @@ __Bold Text can also be wrapped with double underscores__
 <br>
 <br>
 
-> # **Creating Links** :
+# **Creating Links** :
 ```
 [display_name](url "link_text")
 ```
@@ -175,7 +175,7 @@ __Bold Text can also be wrapped with double underscores__
 <br>
 <br>
 
-> # **Tables** :
+# **Tables** :
 ```
 |    Character   |  Anime |
 |    :-------:   |  :---: |
@@ -193,8 +193,10 @@ __Bold Text can also be wrapped with double underscores__
 <br>
 <br>
 
-> # **Task Lists** :
+# **Task Lists** :
 ```
 - [ ] This task is incomplete
 - [x] This task is complete
 ```
+- [ ] This task is incomplete
+- [x] This task is complete
